@@ -1,4 +1,4 @@
-##### build the project and publishing to Nexus
+##### Build the project and publishing to Nexus
 
 To build run `gradle build` which creates a jar under `build/libs/`.
 
